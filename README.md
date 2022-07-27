@@ -17,3 +17,6 @@ output.write(resp.content)
 output.close()
 ```
 * https://stackoverflow.com/questions/25415405/downloading-an-excel-file-from-the-web-in-python -> stackoverflow
+
+
+## 적용 코드
